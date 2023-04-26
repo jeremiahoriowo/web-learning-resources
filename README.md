@@ -1,1 +1,1 @@
-# learning-resources-
+# learning-resources
