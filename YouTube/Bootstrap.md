@@ -1,7 +1,7 @@
 # Videos
 ### Concepts
 - [Beginners](https://youtu.be/-qfEOE4vtxE)
-- [Boostrap 5 Crash Course](https://youtu.be/-qfEOE4vtxE](https://www.youtube.com/watch?v=Jyvffr3aCp0)
+- [Boostrap 5 Crash Course](https://www.youtube.com/watch?v=Jyvffr3aCp0)
 ### Projects
 - [Website Build and Deploy](https://youtu.be/4sosXZsdy-s)
 - [Responsive Website (with Bootstrap](https://youtu.be/DFUT5s5SasA)
