@@ -1,5 +1,6 @@
 # TABLE OF CONTENT
 - [Videos](#Videos)
+  - Projects
 - [Playlists](#Playlists)
 
 # Videos
