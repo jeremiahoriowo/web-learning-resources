@@ -1,6 +1,6 @@
-# Content
-- Videos
-- Playlists
+# CONTENT
+- [Videos](#Videos)
+- [Playlists](#Playlists)
 
 # Videos
 ### Concepts
