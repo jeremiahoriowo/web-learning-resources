@@ -9,7 +9,7 @@
 - [Boostrap 5 Crash Course](https://www.youtube.com/watch?v=Jyvffr3aCp0)
 ### Projects
 - [Build and Deploy a Bootstrap Website](https://youtu.be/4sosXZsdy-s)
-- [Responsive Website (with Bootstrap](https://youtu.be/DFUT5s5SasA)
+- [Responsive Website (with Bootstrap)](https://youtu.be/DFUT5s5SasA)
 - [Responsive Website 2](https://youtu.be/dtTWD0ystG0)
 
 # Playlists
