@@ -1,4 +1,4 @@
-# CONTENT
+# TABLE OF CONTENT
 - [Videos](#Videos)
 - [Playlists](#Playlists)
 
