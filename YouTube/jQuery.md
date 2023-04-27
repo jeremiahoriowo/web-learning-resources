@@ -12,6 +12,6 @@
 
 # Playlists
 ### Concepts
-- [Beau teaches jQuery](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+- [Beau Teaches jQuery](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
 ### Projects
 - Nil
