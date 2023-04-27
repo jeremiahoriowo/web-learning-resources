@@ -1,29 +1,29 @@
-# TIMO FOR BUCC PRESIDENT !!!
+# TABLE OF CONTENT
+- [Videos](#Videos)
+- [Playlists](#Playlists)
 
 
-# Google Developers Student Club Babcock University Web Learning Resources Repository
+# Videos
+### Concepts
+- [Learning Path](https://www.youtube.com/watch?v=gSnbnYffz7k)
+- [Road Map](https://www.youtube.com/watch?v=Ar9mGfmsgtM&t=318s)
+- [Basics](https://www.youtube.com/watch?v=XIOLqoPHCJ4)
+- [Advanced](https://www.youtube.com/watch?v=R9I85RhI7Cg&t=2358s)
+- [Asynchronous](https://www.youtube.com/watch?v=exBgWAIeIeg&t=59s)
+- [Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
+- [DOM Manipulation](https://youtu.be/5fb2aPlgoys)
+- [DOM Crash Course Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+- [DOM Crash Course Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)
 
-Welcome to the Google Developers Student Club Babcock University Web Learning Resources Repository! This repository is a collection of various web development resources that will help you learn and improve your skills in web development.
+### Projects
+- [Basic Projects](https://youtu.be/3PHXvlpOkf4)
+- [Projects To Get HIRED 1](https://youtu.be/d21tI8eI-PM)
+- [Projects To Get HIRED 2](https://youtu.be/lUUOMdnLBqY)
 
-## Getting Started
+# Playlists
+### Concepts
+- [Algorithms and Data Structures](https://www.youtube.com/watch?v=vVYG8TNN7hg&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+- [ES6 and TypeScript](https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
 
-To get started with using this repository, you can clone the repository to your local machine using the following command:
-
-git clone https://github.com/GDSCBabcockUniversity/web-learning-resources.git
-
-
-Once you have cloned the repository, you can explore the various resources available and start learning!
-
-## Contributing
-
-We welcome contributions from anyone who is interested in improving this repository. If you have a resource that you would like to add, please create a pull request with a brief description of the resource and why you think it would be useful to others.
-
-Before contributing, please make sure that the resource you are adding is relevant to web development and is of high quality.
-
-## Code of Conduct
-
-We expect everyone who participates in this repository to follow the [Google Developers Community Guidelines](https://developers.google.com/community/guidelines) and the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html). 
-
-## Contact Us
-
-If you have any questions or concerns, please feel free to contact us at gdscbabcockuniversity@gmail.com.
+### Projects
+- [Basic Projects](https://youtube.com/playlist?list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3)
