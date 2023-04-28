@@ -1,6 +1,3 @@
-# TIMO FOR BUCC PRESIDENT !!!
-
-
 # Google Developers Student Club Babcock University Web Learning Resources Repository
 
 Welcome to the Google Developers Student Club Babcock University Web Learning Resources Repository! This repository is a collection of various web development resources that will help you learn and improve your skills in web development.
