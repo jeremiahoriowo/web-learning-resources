@@ -5,8 +5,10 @@
 
 # Videos
 ### Concepts
+- [How To Learn](https://www.youtube.com/watch?v=quJzdnXuNDc)
 - [Learning Path](https://www.youtube.com/watch?v=gSnbnYffz7k)
 - [Road Map](https://www.youtube.com/watch?v=Ar9mGfmsgtM&t=318s)
+- [Deep-Intro](https://www.youtube.com/watch?v=zjVFuft1O2Y&list=PLyuRouwmQCjkYdv4VjuIbvcMZVWSdOm58)
 - [Basics](https://www.youtube.com/watch?v=XIOLqoPHCJ4)
 - [Advanced](https://www.youtube.com/watch?v=R9I85RhI7Cg&t=2358s)
 - [Asynchronous](https://www.youtube.com/watch?v=exBgWAIeIeg&t=59s)
