@@ -5,12 +5,12 @@
 
 # Videos
 ### Concepts
-- Nil
+- [Full Course](https://youtu.be/CGLdH5ORX-Y)
 ### Projects
 - Nil
 
 # Playlists
 ### Concepts
-- Nil
+- [Angular 13](https://youtube.com/playlist?list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty)
 ### Projects
 - Nil
